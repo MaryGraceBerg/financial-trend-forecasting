@@ -1,0 +1,9 @@
+trend,status,due_for_comeback,comeback_score,weeks_since_peak,avg_cycle_weeks,current_level,historical_max,recent_slope
+Metallic Finishes,Dormant,True,2.4,113,46.0,3.2,95.7,0.23
+Cabbage Edge Hems,Dormant,True,1.03,71,82.5,19.7,57.4,0.57
+Minimalist Design,Dormant,True,1.03,36,41.8,6.2,82.4,0.13
+Ruffled Details,Dormant,False,0.72,34,47.2,10.0,57.4,-0.45
+Oversized Silhouettes,Dormant,False,0.61,38,62.3,3.0,83.7,-0.44
+Sustainable Materials,Dormant,False,0.32,21,66.3,11.3,82.6,-0.8
+Bold Prints,Declining,False,0.0,84,82.5,34.4,80.4,-2.05
+Layered Textures,Peaking,False,0.0,98,49.0,86.7,100.0,-1.98
